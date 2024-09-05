@@ -13,13 +13,14 @@
 ![nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 <strong>Database</strong><br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
 <strong>Backend</strong><br>
-![Java](https://img.shields.io/badge/Java-634533.svg?&style=flat)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=flat&logo=SpringBoot&logEoColor=white)
+![Java](https://img.shields.io/badge/Java17-634533.svg?&style=flat)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot3.2-6DB33F.svg?&style=flat&logo=SpringBoot&logEoColor=white)
 ![SpringJPA](https://img.shields.io/badge/Spring_JPA-6DB33F.svg?&style=flat)
 
 <strong>Frontend</strong><br>
