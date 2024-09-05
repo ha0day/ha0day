@@ -10,8 +10,6 @@
 
 <strong>Infra</strong><br>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=flat&logo=AmazonAWS_&logoColor=white)
-![Amazon_EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=flat&logo=Amazon%20EC2&logoColor=white)
-![AWS ELB](https://img.shields.io/badge/AWS%20ELB-8C4FFF.svg?&style=flat&logo=awselasticloadbalancing&logoColor=white)
 ![nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
