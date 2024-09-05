@@ -13,6 +13,8 @@
 ![nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
+
+<strong>Database</strong><br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
 <strong>Backend</strong><br>
