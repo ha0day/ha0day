@@ -1,7 +1,10 @@
 
 # Hi 👋, I'm hayoung
 ### About me
-🔭 Backend developer well versed in <strong>Java</strong> and <strong>Spring</strong><br>
+👨🏻‍👩🏻‍👧🏻‍👦🏻 I want to become a developer who fulfills the needs of others<br>
+🔭 <strong>Backend developer</strong> well versed in <strong>Java</strong> and <strong>Spring</strong><br>
+<br>
+💕 I love watching dramas📺 and going on photography outings📸<br>
 📫 How to reach me : ycis5013@naver.com
 
 ----
