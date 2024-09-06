@@ -1,38 +1,60 @@
 
-# Hi 👋, I'm hayoung
-### About me
+<h1 align="center">Hi 👋, I'm hayoung</h1>
+
+<p align="center">
+    <img src="hayoung_profile.jpg"  width="600"/>
+</p>
+
+<h2 align="center">About me</h2>
+<p align="center">
 👨🏻‍👩🏻‍👧🏻‍👦🏻 I want to become a developer who fulfills the needs of others<br>
 🔭 <strong>Backend developer</strong> well versed in <strong>Java</strong> and <strong>Spring</strong><br>
 <br>
-💕 I love watching dramas📺 and going on photography outings📸<br>
-📫 How to reach me : ycis5013@naver.com
+I love watching dramas📺 and going on photography outings📸<br>
+📫 How to reach me : <strong>ycis5013@naver.com</strong>
+</p>
+<br><br><h2 align="center">Languages and Tools</h2>
 
-----
-
-### Languages and Tools
-
+<div align="center">
 <strong>Infra</strong><br>
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=flat&logo=AmazonAWS_&logoColor=white)
-![nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
-![jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat&logo=ubuntu&logoColor=white)
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=flat&logo=AmazonAWS_&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</div>
 
+
+<div align="center">
 <strong>Database</strong><br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white" alt="MySQL"/>
+</div>
 
+
+<div align="center">
 <strong>Backend</strong><br>
-![Java](https://img.shields.io/badge/Java17-634533.svg?&style=flat)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot3.2-6DB33F.svg?&style=flat&logo=SpringBoot&logEoColor=white)
-![SpringJPA](https://img.shields.io/badge/Spring_JPA-6DB33F.svg?&style=flat)
+  <img src="https://img.shields.io/badge/Java17-634533.svg?&style=flat" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot3.2-6DB33F.svg?&style=flat&logo=SpringBoot&logEoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_JPA-6DB33F.svg?&style=flat" alt="Spring JPA"/>
+</div>
 
+
+<div align="center">
 <strong>Frontend</strong><br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white" alt="CSS3"/>
+</div>
 
+
+<div align="center">
 <strong>Management Tool</strong><br>
-![Git-F05032.svg](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
-![GitLab-FC6D26.svg](https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=GitLab&logoColor=white)
-![Jira Software-0052CC.svg](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=JiraSoftware&logoColor=white)
-![Mattermost-0058CC.svg](https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=Mattermost&logoColor=white)
-![Notion-000000.svg](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat&logo=GitLab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=JiraSoftware&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=Mattermost&logoColor=white" alt="Mattermost"/>
+  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" alt="Notion"/>
+</div>
