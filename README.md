@@ -7,11 +7,9 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
+🔭 <strong>Backend developer</strong> well versed in <strong>Java</strong> and <strong>Spring</strong><br><br>
 👨🏻‍👩🏻‍👧🏻‍👦🏻 I want to become a developer who fulfills the needs of others<br>
-🔭 <strong>Backend developer</strong> well versed in <strong>Java</strong> and <strong>Spring</strong><br>
-<br>
 I love watching dramas📺 and going on photography outings📸<br>
-📫 How to reach me : <strong>ycis5013@naver.com</strong>
 </p>
 <br><br><h2 align="center">Languages and Tools</h2>
 
@@ -57,4 +55,13 @@ I love watching dramas📺 and going on photography outings📸<br>
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=JiraSoftware&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=Mattermost&logoColor=white" alt="Mattermost"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white" alt="Notion"/>
+</div>
+<br>
+
+---
+<br>
+
+<div align="center">
+
+📫 Contact : <strong>ycis5013@naver.com</strong>
 </div>
