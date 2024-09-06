@@ -34,7 +34,5 @@
 ![Mattermost-0058CC.svg](https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=Mattermost&logoColor=white)
 ![Notion-000000.svg](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
 
-test
-test2
-test3
-test4
+
+### Fun fact
